@@ -3,7 +3,7 @@
   "id": "ponder_your_orbs",
   "version": "${version}",
   "name": "Ponder Your Orbs",
-  "description": "",
+  "description": "A mod that adds in procedurally generated orbs of origin",
   "authors": [
     "ThatRobin3001"
   ],
