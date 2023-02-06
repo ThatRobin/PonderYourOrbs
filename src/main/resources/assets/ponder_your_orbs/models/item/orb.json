@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ponder_your_orbs:item/orb_layer1",
+    "layer1": "ponder_your_orbs:item/orb_layer1",
+    "layer2": "ponder_your_orbs:item/orb_layer2"
+  }
+}

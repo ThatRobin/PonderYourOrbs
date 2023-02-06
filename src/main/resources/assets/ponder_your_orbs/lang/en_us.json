@@ -1,0 +1,6 @@
+{
+  "item.ponder_your_orbs.orb": "Orb of ",
+  "item.ponder_your_orbs.orb_deactivated": "Deactivated Orb",
+  "item.origins.orb_of_origin.layer_generic": "Lets you choose a new %s.",
+  "item.origins.orb_of_origin.layer_specific": "Sets your %1$s to \"%2$s\"."
+}
